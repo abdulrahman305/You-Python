@@ -11,7 +11,7 @@ commonmark==0.9.1; python_full_version >= "3.6.2" and python_full_version < "4.0
 exceptiongroup==1.1.0; python_version >= "3.7" and python_version < "3.11"
 h11==0.14.0; python_version >= "3.7" and python_version < "4.0" and python_full_version >= "3.7.0"
 idna==3.4; python_version >= "3.7" and python_version < "4"
-markdownify==0.11.6
+markdownify==0.14.1
 outcome==1.2.0; python_version >= "3.7" and python_version < "4.0"
 pycparser==2.21; python_version >= "3.7" and python_full_version < "3.0.0" and os_name == "nt" and implementation_name != "pypy" and python_version < "4.0" or os_name == "nt" and implementation_name != "pypy" and python_version >= "3.7" and python_version < "4.0" and python_full_version >= "3.4.0"
 pygments==2.13.0; python_full_version >= "3.6.2" and python_full_version < "4.0.0" and python_version >= "3.6"
